@@ -1,1 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+semi-circle{
+    height:800px;
+    width: 800px;
+    position:absolute;
+    border-radius: 70%;
+    background-color:#659549 ;
+}
+
+.semi-circle    {
+     right:-70px;
+     top:-350px
+}
 

@@ -13,6 +13,7 @@ semi-circle{
      right:-70px;
      top:-350px
 }
+
 h3 {
     color: #162938;
     font-size: 1.5em;
@@ -33,7 +34,7 @@ button{
     outline: none;
     cursor: pointer;
     border-radius: 30px;
-    }
+}
 .street-food nav a{
     margin: 40px;
     text-decoration: none;
@@ -74,7 +75,7 @@ button{
 }
 .hot-deals{
     background-color: #C9ECB5;
-    
+
 }
 .contact-us{
     background-color: #f2d6e8;
@@ -87,5 +88,3 @@ button{
     background-color: #b3c1d9;
     display: flex;
 }
-
-

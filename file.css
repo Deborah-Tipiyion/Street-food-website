@@ -74,4 +74,18 @@ button{
 }
 .hot-deals{
     background-color: #C9ECB5;
+    
+}
+.contact-us{
+    background-color: #f2d6e8;
+}
+.contact-us input{
+    border: none;
+    outline: none
+}
+.newsletter-footer{
+    background-color: #b3c1d9;
+    display: flex;
+}
+
 

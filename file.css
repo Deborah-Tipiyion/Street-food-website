@@ -52,7 +52,7 @@ button{
     width: 300px;
     height: 200px;
     background-color:whitesmoke;
-    border-bottom-right-radius: 30px;
+    border-bottom-right-radius: 65px;
     margin: 50px;
     display: flex;
 }

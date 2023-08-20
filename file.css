@@ -33,4 +33,45 @@ button{
     outline: none;
     cursor: pointer;
     border-radius: 30px;
+    }
+.street-food nav a{
+    margin: 40px;
+    text-decoration: none;
+    color: #162938;
+    font-size: 0.9em;
+}
+.street-food{
+    background-color: #b3c1d9;
+}
+.burgers{
+    display: flex;
+    margin: 50px;
+}
+.burger-name{
+    width: 250px;
+    height: 180px;
+    background-color:whitesmoke;
+    border-bottom-right-radius: 50px;
+    margin: 50px;
+    display: flex;
+}
+.burgers-menu{
+    background-color: #b3c1d9;
+}
+::placeholder{
+    color: #162938;
+    font-size: 1.4em;
+}
+.eat-together{
+    display: flex;
+}
+.eat-together img{
+    width: 500px;
+    height: 400px;
+}
+.eat-together p{
+    display: flexbox;
+}
+.hot-deals{
+    background-color: #C9ECB5;
 

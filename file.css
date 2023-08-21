@@ -61,7 +61,7 @@ button{
 }
 ::placeholder{
     color: #162938;
-    font-size: 1.4em;
+    font-size: 1.3em;
 }
 .eat-together{
     display: flex;
@@ -75,7 +75,7 @@ button{
 }
 .hot-deals{
     background-color: #C9ECB5;
-   font-size: 1.4em;
+   font-size: 1.2em;
 
 }
 .contact-us{

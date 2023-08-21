@@ -25,15 +25,15 @@ h1{
     color: #6CB840;
 }
 button{
-    width: 180px;
-    height: 55px;
+    width: 150px;
+    height: 50px;
     background-color: #6CB840;
     color: white;
     border: none;
-    font-size: 1.0em;
+    font-size: o.9em;
     outline: none;
     cursor: pointer;
-    border-radius: 30px;
+    border-radius: 25px;
 }
 .street-food nav a{
     margin: 40px;
@@ -67,8 +67,8 @@ button{
     display: flex;
 }
 .eat-together img{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
 }
 .eat-together p{
     display: flexbox;
